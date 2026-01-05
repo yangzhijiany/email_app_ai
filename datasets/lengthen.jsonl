@@ -1,0 +1,50 @@
+{"id": 1, "sender": "alice@example.com", "subject": "Meeting Follow-Up", "content": "Hi, just checking in on the meeting notes."}
+{"id": 2, "sender": "mark.jones@startup.io", "subject": "Project Deadline Concern", "content": "Hey team, we really need those deliverables by Friday or we’ll miss the client handoff. Let’s stay sharp."}
+{"id": 3, "sender": "susan.lee@university.edu", "subject": "Thesis Feedback", "content": "Dear Professor, I’ve attached my revised thesis draft. Could you please share any feedback before next Tuesday?"}
+{"id": 4, "sender": "daniel@personalmail.com", "subject": "Weekend Hike", "content": "Yo! You still up for that hike Saturday morning? Weather looks good!"}
+{"id": 5, "sender": "hr@finwellcorp.com", "subject": "Offer Letter Update", "content": "Congratulations on your offer! Attached is your official offer letter and onboarding details."}
+{"id": 6, "sender": "carol@creativeagency.org", "subject": "Design Revisions", "content": "Hi team, please review the attached mockups and add comments by end of day tomorrow."}
+{"id": 7, "sender": "mike89@gmail.com", "subject": "Rant About Deadlines", "content": "I’m honestly so done with these shifting deadlines. How are we supposed to plan anything properly?"}
+{"id": 8, "sender": "tina@bookclub.com", "subject": "Book of the Month", "content": "Hey readers! This month we’re diving into 'The Night Circus.' Meeting is next Thursday evening!"}
+{"id": 9, "sender": "andre@techsolutions.ai", "subject": "Client Demo Prep", "content": "Morning all, let’s finalize the demo scripts by noon. I’ll run through the slide deck after lunch."}
+{"id": 10, "sender": "nina@wellnesscenter.org", "subject": "Appointment Reminder", "content": "Hi, this is a reminder for your appointment with Dr. Patel on Wednesday at 10:30 AM."}
+{"id": 11, "sender": "jessica@friendsmail.com", "subject": "Rough Day", "content": "Ugh, today was such a mess. Traffic, deadlines, and my coffee spilled twice. I just need a nap."}
+{"id": 12, "sender": "info@nonprofitaction.org", "subject": "Thank You for Donating!", "content": "We’re so grateful for your support. Your contribution helps us provide food and shelter to families in need."}
+{"id": 13, "sender": "peter@company.com", "subject": "Budget Review", "content": "Team, please review the Q3 financial summary and identify areas where we can cut costs."}
+{"id": 14, "sender": "emily@artschool.edu", "subject": "Portfolio Critique", "content": "Hi! Could you take a look at my updated digital portfolio? I’m hoping to apply for the spring showcase."}
+{"id": 15, "sender": "support@travelbuddy.com", "subject": "Flight Cancellation Notice", "content": "Your flight TB473 to Paris has been canceled due to weather. Please visit our site to rebook or request a refund."}
+{"id": 16, "sender": "lucas@devmail.net", "subject": "Code Review", "content": "Hey, I pushed the latest branch. Can you check for bugs in the data parser module?"}
+{"id": 17, "sender": "aisha@greengrow.co", "subject": "Marketing Campaign Results", "content": "Hi team, the campaign exceeded expectations! Engagement rose 25% and conversions 12%. Great work!"}
+{"id": 18, "sender": "dad@example.com", "subject": "Proud of You", "content": "Hey kiddo, just wanted to say I’m proud of how hard you’re working lately. Keep it up."}
+{"id": 19, "sender": "rose@fashionhub.com", "subject": "Partnership Proposal", "content": "Hello, we’re interested in collaborating on a social media campaign for our new collection. Let’s discuss details soon."}
+{"id": 20, "sender": "ben@languagelab.ai", "subject": "Research Update", "content": "Hi, I’ve uploaded the latest experiment logs. The model shows promising accuracy improvements."}
+{"id": 21, "sender": "grace@bakeshop.net", "subject": "Catering Request", "content": "Hello, I’d like to order cupcakes and pastries for a 30-person event on November 10th."}
+{"id": 22, "sender": "samuel@corporate.com", "subject": "Performance Review Scheduling", "content": "Hi Alex, let’s schedule your annual performance review next week. Please send me your availability."}
+{"id": 23, "sender": "rachel@neighbors.org", "subject": "Lost Dog Alert", "content": "Hi all, a golden retriever was found near Maple Street Park. Contact us if you think it’s yours."}
+{"id": 24, "sender": "dev@openaiapps.dev", "subject": "API Key Usage", "content": "Reminder: You’ve reached 80% of your monthly API limit. Upgrade or reduce usage to avoid service disruption."}
+{"id": 25, "sender": "alex@musiclovers.fm", "subject": "Concert Plans", "content": "Hey! Got tickets to the indie festival next month — want to come?"}
+{"id": 26, "sender": "chris@consultancy.biz", "subject": "Proposal Feedback", "content": "Dear team, after reviewing the proposal, I recommend expanding the section on competitive differentiation."}
+{"id": 27, "sender": "support@shopifyplus.com", "subject": "Subscription Renewal", "content": "Your annual plan renews on November 15. No action needed unless you wish to cancel or modify your plan."}
+{"id": 28, "sender": "sofia@personalmail.com", "subject": "Catching Up", "content": "It’s been forever since we last talked! How have you been? Let’s grab lunch soon."}
+{"id": 29, "sender": "leo@technewsdaily.com", "subject": "Interview Request", "content": "Hi, we’d love to feature you in our upcoming article about AI startups. Would you be open to a short interview?"}
+{"id": 30, "sender": "ryan@freelancer.org", "subject": "Invoice for October", "content": "Please find attached the invoice for October deliverables. Payment due within 14 days."}
+{"id": 31, "sender": "no-reply@cityalerts.gov", "subject": "Severe Weather Warning", "content": "Alert: Heavy rain and flooding expected in your area tonight. Stay indoors if possible."}
+{"id": 32, "sender": "olivia@wellnesshub.com", "subject": "Mindfulness Session Recap", "content": "Hi everyone, thank you for joining today’s mindfulness session. Attached are the guided exercises and reflection notes."}
+{"id": 33, "sender": "derek@teamx.io", "subject": "Frustration with Communication", "content": "Honestly, it’s getting hard to keep track when everyone uses different tools. Can we please consolidate channels?"}
+{"id": 34, "sender": "mom@example.com", "subject": "Dinner Plans", "content": "Hi sweetie, are you coming for dinner Sunday night? I’m making your favorite lasagna."}
+{"id": 35, "sender": "zoe@startuphub.org", "subject": "Pitch Deck Review", "content": "Hey, could you take a quick look at my pitch deck? Need some honest feedback before demo day."}
+{"id": 36, "sender": "library@city.edu", "subject": "Overdue Notice", "content": "Your borrowed book 'Modern Linguistics' is overdue. Please return it or renew within 3 days."}
+{"id": 37, "sender": "felix@remoteworkers.co", "subject": "Team Check-In", "content": "Good morning team, just wanted to do a quick async check-in. How’s everyone progressing this week?"}
+{"id": 38, "sender": "hannah@wellbeing.org", "subject": "Burnout Awareness Workshop", "content": "Join our free webinar next Tuesday to learn about managing stress and building resilience at work."}
+{"id": 39, "sender": "claire@company.com", "subject": "Urgent: Client Escalation", "content": "We received an escalation from the client about missing documentation. Please resolve by end of day."}
+{"id": 40, "sender": "ian@outdoorclub.net", "subject": "Trip Recap", "content": "That weekend trip was amazing! I still can’t believe we hiked 20 miles in two days. Photos attached!"}
+{"id": 41, "sender": "dana@brandco.com", "subject": "Product Launch Prep", "content": "Hi all, let’s finalize the marketing copy and visuals today so we can go live tomorrow morning."}
+{"id": 42, "sender": "victor@financecorp.com", "subject": "Expense Report Missing", "content": "Please submit your October expense report by Friday or your reimbursement will be delayed."}
+{"id": 43, "sender": "kate@communitycenter.org", "subject": "Volunteer Appreciation", "content": "Thank you all for your time and effort this month. You truly make a difference in our community!"}
+{"id": 44, "sender": "noah@fitnesslab.co", "subject": "Workout Summary", "content": "Your weekly stats are in: 4 workouts, 1,800 calories burned, and consistent improvement in endurance!"}
+{"id": 45, "sender": "customer@reviewhub.com", "subject": "Complaint About Service", "content": "I’m disappointed with how my support ticket was handled. It’s been a week and no one has responded."}
+{"id": 46, "sender": "ella@studioart.net", "subject": "Gallery Invitation", "content": "We’re thrilled to invite you to our winter gallery opening on December 5. RSVP by November 20."}
+{"id": 47, "sender": "leo@friendsmail.com", "subject": "Just Checking In", "content": "Hey man, haven’t heard from you in a while. Everything okay?"}
+{"id": 48, "sender": "recruiting@techhire.ai", "subject": "Interview Schedule Confirmation", "content": "Your interview for the ML Engineer position is confirmed for Thursday, November 7 at 2:00 PM PST."}
+{"id": 49, "sender": "maria@culinaryclub.org", "subject": "Recipe Swap", "content": "Hey everyone! Share your favorite comfort food recipes this week — I’ll post mine tomorrow!"}
+{"id": 50, "sender": "ethan@projectx.com", "subject": "End of Quarter Wrap-Up", "content": "We’ve officially wrapped up Q4! Please send your retrospectives and lessons learned by Monday."}
