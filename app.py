@@ -87,7 +87,7 @@ email_text = st.text_area(
 )
 
 # --- NEW BUTTON ---
-st.markdown("### temp_action_button")
+st.markdown("### Actions")
 col1, col2, col3 = st.columns([1, 1, 1])
 with col1:
     if st.button("elaborate"):
