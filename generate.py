@@ -21,7 +21,7 @@ class GenerateEmail():
     def _call_api(self, messages):
         # TODO: implement this function to call ChatCompletions
         response = self.client.chat.completions.create(
-            model=os.getenv("DEPLOYMENT_NAME"), # model = "deployment_name".)
+            model=self.deployment_name, # Use instance variable instead of environment variable
             messages=messages
         )
         return response.choices[0].message.content
